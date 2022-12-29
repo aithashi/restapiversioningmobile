@@ -1,0 +1,1 @@
+export const PermissonErrorImage = require('./access-denied.png')
